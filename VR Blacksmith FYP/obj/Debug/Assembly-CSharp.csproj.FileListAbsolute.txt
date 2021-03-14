@@ -1,0 +1,2 @@
+C:\Users\thoma\Desktop\Year 3\FINAL YEAR PROJECT\VR Blacksmith FYP\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\thoma\Desktop\Year 3\FINAL YEAR PROJECT\VR Blacksmith FYP\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

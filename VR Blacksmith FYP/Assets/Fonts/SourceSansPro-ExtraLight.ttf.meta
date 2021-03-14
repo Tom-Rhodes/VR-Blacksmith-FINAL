@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e44b7bf16b8f30a4c937a6ad5095f87b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Sans Pro ExtraLight
+  fontNames:
+  - Source Sans Pro ExtraLight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d87b6912029b8342bfab9014edf667d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
